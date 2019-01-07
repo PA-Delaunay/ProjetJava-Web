@@ -2,7 +2,7 @@
 	<head> 
 		<meta charset="utf-8"/> 
 		<link rel="stylesheet" href="style1.css"/>
-		<title> Page d'accueil </title> 
+		<title> Gestionnaire de Don du Sang - Page d'accueil </title> 
 	</head> 
 	<body> 
 		<?php echo "WelcomePage";
